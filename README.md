@@ -68,4 +68,4 @@ C. Sample Configuration and Setup Examples
 ## Sample: 7.5G Mobile Communication System Security Guide Documentation
 
 You can download the sample document here:  
-[📄 Download 7.5G MCS SG.pdf](./7.5G%20MCS%20SG.pdf)
+[📄 Download 7.5G MCS SG.pdf](./Sample_07.5GMCSSG.pdf)
